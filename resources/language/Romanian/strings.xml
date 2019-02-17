@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Operator -->
+    <string id="32000">Selectati operatorul dv de cablu</string>
+    <string id="32001">AKTA</string>
+    <string id="32002">Canal S</string>
+    <string id="32003">HBO GO Vip/Club Romania</string>
+    <string id="32004">INES</string>
+    <string id="32005">INTERSAT</string>
+    <string id="32006">Metropolitan</string>
+    <string id="32007">MITnet</string>
+    <string id="32008">NextGen Communications</string>
+    <string id="32009">RCS RDS</string>
+    <string id="32010">Telekom Romania</string>
+    <string id="32011">Telekom Romania Business</string>
+    <string id="32012">TV SAT 2002</string>
+    <string id="32013">Vodafone</string>
+    <string id="32014">Vodafone Romania 4GTV+</string>
+    <string id="32015">Voucher HBOGO</string>
+    <string id="32016">Orange Romania</string>
+    <string id="32017">UPC Romaniaa</string>
+
+    <!-- Account -->
+    <string id="32040">Cont</string>
+    <string id="32041">Operator</string>
+    <string id="32042">Utilzator</string>
+    <string id="32043">Parola</string>
+    <!-- Settings -->
+    <string id="32050">Subtitrari</string>
+    <string id="32051">Activati subtitrarile incarcate</string>
+    <string id="32052">Limba</string>
+    <string id="32053">Selectati limba pentru subtitrare</string>
+    <string id="32054">Romana</string>
+    <string id="32055">English</string>
+</strings>
